@@ -42,10 +42,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/RyhnXD'
-global.sgc = 'https://chat.whatsapp.com/IJ5wIhRoB4i5d89Av7QWNq'
-global.sdc = 'https://github.com/RyhnXD'
+global.sig = 'https://instagram.com/itskri99'
+global.sgh = 'https://github.com/krizynofc'
+global.sgc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
+global.sdc = '-'
 global.stg = 'wa.me/6289524208209'
 global.snh = 'nhentai.net/372963/'
 
@@ -55,21 +55,21 @@ global.povo = '083174508962'
 global.pgopay = '083174508962'
 global.ppulsa = '083174508962'
 global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.psaweria = 'https://saweria.co/kricom'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281779211748'
-global.nomorown = '6289524208209'
-global.namebot = 'ᴍɪᴋᴏᴛᴏ'
-global.nameown = 'ʜᴀɴ'
+global.nomorbot = '6288279918499' 
+global.nomorown = '6281779211748'
+global.namebot = 'Àimò Shuǐ - MD'
+global.nameown = 'NOLEN'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289524208209'],
-  ['6289524208209'],
-  ['6289524208209'],
-  ['6289524208209', 'ʜᴀɴ', true]
+  ['6281779211748'],
+  ['6281779211748'],
+  ['6281779211748'],
+  ['6281779211748', 'NOLEN', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'ᴍɪᴋᴏᴛᴏ' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di ᴍɪᴋᴏᴛᴏ ʙᴏᴛᴢ👋'
-global.wm3 = '☘︎ ᴍɪᴋᴏᴛᴏ ʙᴏᴛᴢ'
+global.wm = 'Àimò Shuǐ' //Main Watermark
+global.wm2 = 'Halo kak Selamat datang di Àimò Shuǐ - MD👋'
+global.wm3 = 'Àimò Shuǐ - MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'ʜᴀɴᴢ' 
+global.author = 'NOLEN' 
 
 
 /*============== LOGO ==============*/
@@ -187,8 +187,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ᴅɪ ʙᴜᴀᴛ ᴏʟᴇʜ'
-global.stickauth = `☘︎ ᴍɪᴋᴏᴛᴏ ʙᴏᴛᴢ [081779211748] nomor botz`
+global.stickpack = 'Àimò Shuǐ'
+global.stickauth = `By KrizynOfc`
 
 global.multiplier = 38 // The higher, The harder levelup
 
